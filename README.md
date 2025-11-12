@@ -4,5 +4,10 @@ GSD-WUR is a MATLAB-based app that allows for the analysis of nonlinear stresses
 
 For detailed instructions on how to use the app, see the manual. 
 
-For more information on the analysis, see: 
+For more information on the analysis, see:
+
 "A. de Groot, J. Yang, L.M.C. Sagis, Surface stress decomposition in large amplitude oscillatory interfacial dilatation of complex interfaces, JCIS, 569-581, 2023, doi.org/10.1016/j.jcis.2023.02.007"
+
+For users without access to Matlab we included a standalone version in the corresponding folder.
+
+If you have any questions or suggestions please contact us at leonard.sagis@wur.nl or t.d.groot3@tue.nl. 
